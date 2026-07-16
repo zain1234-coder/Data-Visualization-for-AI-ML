@@ -28,7 +28,7 @@ Data-Visualization-for-AI-ML/
 │
 ├── 📁 notebooks
 │   ├── ✅ 01_Matplotlib_Basics_5_Graphs.ipynb
-│   ├── ⏳ Coming Soon...
+│   ├── ✅ 02_advance_matplotlib.ipynb
 │   ├── ⏳ Coming Soon...
 │   └── ⏳ More notebooks...
 │
@@ -51,18 +51,11 @@ Data-Visualization-for-AI-ML/
 * ✅ Pie Chart
 * ✅ Histograms
 * ✅ Saving Figures
-  
-### Coming Next
-
-* ⏳ Box Plot
-* ⏳ Area Plot
-* ⏳ Stack Plot
-* ⏳ Stem Plot
-* ⏳ Fill Between
-* ⏳ Error Bar Plot
-* ⏳ Subplots
-* ⏳ Figure Customization
-* ⏳ Advanced Matplotlib
+* ✅ contour plot
+* ✅ Surface plot
+* ✅ color encoded plot
+* ✅ subbplots
+* ✅ pandas plot func()
 
 ---
 
@@ -71,7 +64,7 @@ Data-Visualization-for-AI-ML/
 | Module                       | Status        | Progress |
 | ---------------------------- | ------------- | -------- |
 | Matplotlib Basics (5 Graphs) | ✅ Completed   | 100%     |
-| Advanced Matplotlib          | ⏳ In Progress | 0%       |
+| Advanced Matplotlib          | ✅ Completed   | 100%     |
 | Seaborn Fundamentals         | ⏳ Not Started | 0%       |
 | Statistical Visualization    | ⏳ Not Started | 0%       |
 | Mini Visualization Projects  | ⏳ Not Started | 0%       |
