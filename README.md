@@ -50,6 +50,7 @@ Data-Visualization-for-AI-ML/
 * ✅ Scatter Plot
 * ✅ Pie Chart
 * ✅ Histograms
+* ✅ Saving Figures
   
 ### Coming Next
 
@@ -61,7 +62,6 @@ Data-Visualization-for-AI-ML/
 * ⏳ Error Bar Plot
 * ⏳ Subplots
 * ⏳ Figure Customization
-* ⏳ Saving Figures
 * ⏳ Advanced Matplotlib
 
 ---
