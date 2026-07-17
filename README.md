@@ -69,7 +69,7 @@ Data-Visualization-for-AI-ML/
 - **02_advance_matplotlib.ipynb**
 
 
-# Module 1 : **Seaborn** 
+# Module 2 : **Seaborn** 
 
 - **01_seaborn_basics.ipynb**
  
