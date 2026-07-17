@@ -29,7 +29,7 @@ Data-Visualization-for-AI-ML/
 ├── 📁 notebooks
 │   ├── ✅ 01_Matplotlib_Basics_5_Graphs.ipynb
 │   ├── ✅ 02_advance_matplotlib.ipynb
-│   ├── ⏳ Coming Soon...
+│   ├── ✅ 01_seaborn_basics.ipynb
 │   └── ⏳ More notebooks...
 │
 ├── 📄 README.md
@@ -39,35 +39,15 @@ Data-Visualization-for-AI-ML/
 
 ---
 
-# 📚 Learning Roadmap
-
-## 📈 Matplotlib
-
-* ✅ Introduction to Matplotlib
-* ✅ Line Plot
-* ✅ Bar Chart
-* ✅ Horizontal Bar Chart
-* ✅ Scatter Plot
-* ✅ Pie Chart
-* ✅ Histograms
-* ✅ Saving Figures
-* ✅ contour plot
-* ✅ Surface plot
-* ✅ color encoded plot
-* ✅ subbplots
-* ✅ pandas plot func()
-
----
-
 # 📊 Progress Tracker
 
 | Module                       | Status        | Progress |
 | ---------------------------- | ------------- | -------- |
 | Matplotlib Basics (5 Graphs) | ✅ Completed   | 100%     |
 | Advanced Matplotlib          | ✅ Completed   | 100%     |
-| Seaborn Fundamentals         | ⏳ Not Started | 0%       |
+| Seaborn Fundamentals         | ✅ Completed   | 100%     |
 | Statistical Visualization    | ⏳ Not Started | 0%       |
-| Mini Visualization Projects  | ⏳ Not Started | 0%       |
+ 
 
 ---
 
