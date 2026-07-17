@@ -82,8 +82,6 @@ More notebooks will be added regularly as I continue my AI & Machine Learning le
 
 Upcoming additions include:
 
-* Advanced Matplotlib
-* Seaborn Complete Guide
 * Statistical Charts
 
 ---
