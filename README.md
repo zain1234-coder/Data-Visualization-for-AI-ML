@@ -61,18 +61,19 @@ Data-Visualization-for-AI-ML/
 
 # 🚀 Current Repository Status
 
-✔ First notebook uploaded:
+✔ Three notebook uploaded:
 
+---
+# Module 1 : **Matplotlib** 
+---
 **01_Matplotlib_Basics_5_Graphs.ipynb**
+**02_advance_matplotlib.ipynb**
 
-This notebook covers the five fundamental visualization techniques:
-
-* Line Plot
-* Bar Chart
-* Horizontal Bar Chart
-* Scatter Plot
-* Pie Chart
-* Histogram chart
+---
+# Module 1 : **Seaborn** 
+---
+**01_seaborn_basics.ipynb**
+ 
 
 More notebooks will be added regularly as I continue my AI & Machine Learning learning journey.
 
