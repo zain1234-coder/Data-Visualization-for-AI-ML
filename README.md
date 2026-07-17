@@ -32,14 +32,11 @@ Data-Visualization-for-AI-ML/
 │   ├── ✅ 01_seaborn_basics.ipynb
 │   └── ⏳ More notebooks...
 │
-├── 📄 README.md
-│
-└── 📜 LICENSE (Optional)
+└── 📄 README.md
+
 ```
-
----
-
 # 📊 Progress Tracker
+---
 
 | Module                       | Status        | Progress |
 | ---------------------------- | ------------- | -------- |
