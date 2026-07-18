@@ -27,10 +27,14 @@ Whether you're a beginner or someone looking to revise visualization concepts, t
 Data-Visualization-for-AI-ML/
 │
 ├── 📁 notebooks
+│
+├──  # Module 1 Matplotlib
 │   ├── ✅ 01_Matplotlib_Basics_5_Graphs.ipynb
 │   ├── ✅ 02_advance_matplotlib.ipynb
+│
+├──  # Module 2 Seaborn
 │   ├── ✅ 01_seaborn_basics.ipynb
-│   └── ⏳ More notebooks...
+│   └── ✅ 02_seaborn_adv.ipynb
 │
 └── 📄 README.md
 
@@ -43,7 +47,7 @@ Data-Visualization-for-AI-ML/
 | Matplotlib Basics (5 Graphs) | ✅ Completed   | 100%     |
 | Advanced Matplotlib          | ✅ Completed   | 100%     |
 | Seaborn Fundamentals         | ✅ Completed   | 100%     |
-| Statistical Visualization    | ⏳ Not Started | 0%       |
+| Advanced Seaborn             | ✅ Completed   | 100%     |
  
 
 ---
@@ -72,17 +76,7 @@ Data-Visualization-for-AI-ML/
 # Module 2 : **Seaborn** 
 
 - **01_seaborn_basics.ipynb**
- 
-
-More notebooks will be added regularly as I continue my AI & Machine Learning learning journey.
-
----
-
-# 📌 Future Updates
-
-Upcoming additions include:
-
-* Statistical Charts
+- **02_seaborn_adv.ipynb**
 
 ---
 
